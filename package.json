@@ -29,7 +29,7 @@
     "express": "4.15.3",
     "helmet": "3.6.0",
     "hydra": "1.6.2",
-    "moment": "2.21.0",
+    "moment": "2.29.2",
     "response-time": "2.3.2"
   },
   "devDependencies": {
